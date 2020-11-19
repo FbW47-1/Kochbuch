@@ -18,4 +18,4 @@ Den Schnaps mit dem Kaffee vermischen. Die Löffelbiskuit darin wenden und abwec
 
 *Und dann schmecken lassen! Mmmmh...*
 
-![Tiramisu](images/Tiramisu.jpeg)
+![Tiramisu](../images/Tiramisu.jpeg)
