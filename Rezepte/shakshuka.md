@@ -3,17 +3,16 @@
 ![Shakshuka](../images/shakshuka.jpg "Shakshuka")
 
 ## Zutaten für 3 Personen
-* 2   rote Paprikaschoten 
+**Nudeln**
+* 1 Dose(Nudeln) (400 ml)  
+* 1 rote Paprikaschoten 
 * 1   Zwiebel 
 * 2 EL  Öl
 * 2 EL  Tomatenmark 
-* 1 Dose(n) (850 ml)  Tomaten 
-* 1 EL  Weißweinessig 
+* 1 EL  Curry  
 * Salz, Pfeffer 
-* Zucker 
 * Cayennepfeffer 
-* Edelsüßpaprika 
-* 5   Eier (Gr. M) 
+* Edelsüßpaprika  
 * 3 Stiel(e)  Petersilie 
 
 
