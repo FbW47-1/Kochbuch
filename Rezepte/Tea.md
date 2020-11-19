@@ -1,5 +1,5 @@
 ## Tea Rezepte ein Glass ##
- 
+
 ### Liste ###
 *_Halb Glass Wasser_
 
@@ -15,4 +15,4 @@
  4. danach zucker und milch rein tun
 
 Tea Redy.
-![bild](/home/dci/Kochbuch/images)
+![bild](/home/dci/Kochbuch/images/Tea.jpg)
