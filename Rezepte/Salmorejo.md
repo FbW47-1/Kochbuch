@@ -1,6 +1,6 @@
 # Salmorejo
 
-![Salmorejo](../images/salmorejo.jng "Salmorejo")
+![Salmorejo](../images/salmorejo.png "Salmorejo")
 
 ## Zutaten für die ganze Woche
 * 4 kg   Tomaten
