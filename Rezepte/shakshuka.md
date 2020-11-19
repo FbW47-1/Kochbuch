@@ -1,6 +1,6 @@
 # Shakshuka
 
-![Shakshuka](../images/shakshuka.jpg "Shakshuka")
+![Bild](../https://www.google.com/search?q=nudeln&client=ubuntu&hs=fwS&channel=fs&sxsrf=ALeKk00-92AIt-YHCgQ9LTO1J5wJaBFF5A:1605792918854&tbm=isch&source=iu&ictx=1&fir=woq5RENIibawMM%252CIl_IUJyjUVEm_M%252C%252Fm%252F0mfnf&vet=1&usg=AI4_-kRpbjWtRP7IMcGON1XIJ5WWmkdmbA&sa=X&ved=2ahUKEwjo84rk3I7tAhVKLewKHbaeCTQQ_B16BAgREAM#imgrc=woq5RENIibawMM")
 
 ## Zutaten für 3 Personen
 **Nudeln**
