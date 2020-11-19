@@ -1,12 +1,16 @@
 # Kochbuch
 
-Wir wollen alle Lieblingsrezepte von euch zusammenführen.
+##Gong Bao Chicken
 
-Diese Zusammenarbeit müsst ihr selber organisieren. Das heißt, ihr müsst euch gegenseitig die Pull Requests reviewen.
+![Gong Bao Chicken](home/dci/Desktop/nov/1911/kochbuch/Kochbuch/images/gong-bao-chicken.jpg)
 
-1. Clone dieses Repository.
-2. Erstelle einen Branch mit deinem Namen.
-3. In dem Ordner Rezepte, erstelle eine Markdown Datei mit einem Lieblingsrezept von dir. Verwende hierzu eine Liste, kursiven/fetten Text und nach Möglichkeit weitere Markdown-Syntax.
-4. Lade ein Bild von deinem Essen in den "images" Ordner. Das Bild kann aus dem Internet sein. Füge dieses Bild auch in deine Markdown Datei hinzu. 
-5. Mach einen Pull Request.
-6. Organisiere dich mit den anderen. Pass auf, dass kein Pull Requests das Projekt durcheinander bringt. Nehme Pull Requests an, die ok sind und kommentiere Pull Requests, von denen du meinst, dass sie nicht gut sind.
+- Zunächst den Boden des Wok großzügig mit Öl bedecken und dieses auf höchster Stufe erhitzen. 
+
+- Das Geschnetzelte rundherum mit Mehl bestäuben und im Wok scharf anbraten, dann salzen. 
+
+
+- Das Fleisch herausnehmen, evtl. etwas Öl nachgeben und die gehackten Erdnüsse leicht anbraten. Die Erdnüsse herausnehmen und die Zwiebeln anbraten. Anschließend den gehackten Knoblauch hinzugeben und ebenfalls anbraten. 
+
+- Die Frühlingszwiebeln und die Chilischoten in Streifen schneiden und hinzugeben. 
+
+- Den Zucker darüber streuen und karamellisieren lassen.
