@@ -1,8 +1,10 @@
 # VEGETARISCHE PAELLA
 
+Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "Paella mixta" mit beidem – das spanische Reisgericht hat eine lange Tradition. [***Mit unserem Gemüse-Paella-Rezept***](https://www.edeka.de/rezepte/rezept/vegetarische-paella.jsp) können auch ***Vegetarier*** das würzige Gericht genießen.
+
 ![Vegetarische Paella](../images/vegetarischepaella.jpg)
 
-Ob klassisch mit Fleisch, als *"Paella marisco"* mit* Meeresfrüchten* oder als* "Paella mixta"* mit beidem – das spanische Reisgericht hat eine lange Tradition. Mit unserem* Gemüse-Paella-Rezept* können auch Vegetarier das würzige Gericht genießen.
+
 
 ## Zutaten:
 	- 170 g Bohnen, grün
@@ -24,8 +26,10 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit* Meeresfrüchten* oder als*
 	- 1 kleine Peperoni, rot
 	- 1 EL Petersilie, fein geschnitten
 	- Thymian
+	
 
-## ZUBEREITUNG:
+
+## Zubereitung:
 
 	1. Die Bohnen von den Enden befreien, evtl. vorhandene Fäden abziehen, dann leicht schräg in 3 cm lange Stücke schneiden. Paprikaschoten vierteln, Stielansätze, Samen und die weißen Trennwände entfernen, das Fruchtfleisch in 3cm große Stücke schneiden. Zucchini und Aubergine von Blüten- und Stielansatz befreien, quer in 1 cm dicke Scheiben schneiden und diese dann vierteln. Zwiebeln und Knoblauch schälen und fein hacken.
 	2. Gemüsebrühe in einem Topf aufkochen, die Bohnen darin in etwa 8 Minuten bissfest garen. Mit dem Schaumlöffel herausheben, in einem Sieb kurz kalt abschrecken und abtropfen lassen. Den Safran zwischen den Fingern zerreiben und in der heißen Gemüsebrühe  
@@ -35,7 +39,11 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit* Meeresfrüchten* oder als*
 	6. Den Backofen auf 180 Grad Ober-/Unterhitze (Umluft 160 Grad) vorheizen.
 	7. In einer Paella-Pfanne das Gemüse, gewürfelte Tomaten, Tomatensaft, Gemüsebrühe mit Reis und Kichererbsen mischen. Peperoni vom Stielansatz befreien, klein hacken und dabei die Samen entfernen. Petersilie und Peperoni einstreuen und untermengen. Mit dem restlichen Öl die Paella beträufeln und mit Alufolie bedecken.
 	8. Im vorgeheizten Ofen auf der unteren Schiene ca. 20 Minuten backen. Dann die Folie entfernen und weitere 10 Minuten garen, bis der Reis bissfest und die Oberfläche leicht gebräunt ist.
-	9. Mit frischem Thymian bestreut servieren. Entdecken Sie weitere Paella-Rezepte und vegetarische Rezepte wie zum Beispiel unseren Paprikasalat mit grünen Bohnen. Tipp: Probieren Sie unsere Auberginen-Rezepte!
+	9. Mit frischem Thymian bestreut servieren. 
+
+
+
+#####  Entdecken Sie weitere Paella-Rezepte und vegetarische Rezepte wie zum Beispiel unseren Paprikasalat mit grünen Bohnen...[Klicken Sie hier](https://www.edeka.de/rezepte/suche.jsp) 
 
 
 
