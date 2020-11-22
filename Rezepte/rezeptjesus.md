@@ -4,6 +4,7 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "P
 
 ![Vegetarische Paella](../images/vegetarischepaella.jpg)
 
+~~~
 
 ## Zutaten:
 	- 170 g Bohnen, grün
@@ -26,7 +27,8 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "P
 	- 1 EL Petersilie, fein geschnitten
 	- Thymian
 	
-	
+~~~
+
 ## Zubereitung:
 
 	1. Die Bohnen von den Enden befreien, evtl. vorhandene Fäden abziehen, dann leicht schräg in 3 cm lange Stücke schneiden. Paprikaschoten vierteln, Stielansätze, Samen und die weißen Trennwände entfernen, das Fruchtfleisch in 3cm große Stücke schneiden. Zucchini und Aubergine von Blüten- und Stielansatz befreien, quer in 1 cm dicke Scheiben schneiden und diese dann vierteln. Zwiebeln und Knoblauch schälen und fein hacken.
@@ -39,7 +41,11 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "P
 	8. Im vorgeheizten Ofen auf der unteren Schiene ca. 20 Minuten backen. Dann die Folie entfernen und weitere 10 Minuten garen, bis der Reis bissfest und die Oberfläche leicht gebräunt ist.
 	9. Mit frischem Thymian bestreut servieren. 
 
+
+~~~
+
 #####  Entdecken Sie weitere Paella-Rezepte und vegetarische Rezepte wie zum Beispiel unseren Paprikasalat mit grünen Bohnen...[Klicken Sie hier](https://www.edeka.de/rezepte/suche.jsp) 
 
 
 
+~~~
