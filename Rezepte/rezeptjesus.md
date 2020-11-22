@@ -1,6 +1,6 @@
 # VEGETARISCHE PAELLA
 
-Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "Paella mixta" mit beidem – das spanische Reisgericht hat eine lange Tradition. ***Mit unserem Gemüse-Paella-Rezept***  (  [Link zur Webseite](https://www.edeka.de/rezepte/rezept/vegetarische-paella.jsp) )können auch ***Vegetarier*** das würzige Gericht genießen.
+Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "Paella mixta" mit beidem – das spanische Reisgericht hat eine lange Tradition. [***Mit unserem Gemüse-Paella-Rezept***](https://www.edeka.de/rezepte/rezept/vegetarische-paella.jsp) )können auch ***Vegetarier*** das würzige Gericht genießen.
 
 ![Vegetarische Paella](../images/vegetarischepaella.jpg)
 
