@@ -4,7 +4,7 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "P
 
 ![Vegetarische Paella](../images/vegetarischepaella.jpg)
 
-~~~
+
 
 ## Zutaten:
 	- 170 g Bohnen, grün
@@ -27,7 +27,7 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "P
 	- 1 EL Petersilie, fein geschnitten
 	- Thymian
 	
-~~~
+
 
 ## Zubereitung:
 
@@ -42,10 +42,8 @@ Ob klassisch mit Fleisch, als *"Paella marisco"* mit Meeresfrüchten oder als "P
 	9. Mit frischem Thymian bestreut servieren. 
 
 
-~~~
 
 #####  Entdecken Sie weitere Paella-Rezepte und vegetarische Rezepte wie zum Beispiel unseren Paprikasalat mit grünen Bohnen...[Klicken Sie hier](https://www.edeka.de/rezepte/suche.jsp) 
 
 
 
-~~~
